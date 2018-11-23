@@ -1,0 +1,62 @@
+.wrapper{
+    width: 500px;
+    height: 600px;
+    background-color: wheat;
+    opacity: 0.8;
+    margin: 0 auto;
+    padding-top: 1px;
+    border-radius: 50px;
+    line-height: 25px;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: olivedrab;
+}
+h2{
+    text-align: center;
+    margin-top: -7.5%;
+    color: orangered;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    margin-top: -0.5%;
+}
+li{
+ font-size: 19px;   
+}
+ol{
+    margin-top: -2.5%;
+}
+a{
+    color: black;
+}
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+button{
+    width: 200px;
+    height: 100px;
+    background-color: yellowgreen;
+    position:fixed;
+    left: 550px;
+    top: 500px;
+    font-size: 20px;
+}
+li{
+    text-align: left;
+}
+.mos{
+height: 30%;
+width: 100%;
+}
+#lesson{
+    color: blue;
+}
